@@ -1,0 +1,7 @@
+{
+  "name": "CLCI",
+  "symbol": "CLCI",
+  "description": "CLCI migration token on TON for Waves-to-TON claim settlement.",
+  "decimals": "0",
+  "image": "https://clci.samkarsa.com/clci-icon.svg"
+}
